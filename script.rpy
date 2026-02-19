@@ -212,8 +212,8 @@ label backtoyourseat:
     boss "You start tomorrow. I'll have someone take you to the island in the morning."
     mc "<Guess I'd better get packing...>"
     "(Screen fades to black.)"
-    mc "<I should've said no. But I didn't. I couldn't find the courage to step out of line.>"
-    mc "<Then again, it's not as if I have a choice.>"
+    mc "<All a big family>"
+    mc "<...You're doing this for your family>"
     "(Title card is displayed.)"
 
     window hide
@@ -237,5 +237,6 @@ label randomtest:
     # END OF TESTS.
 
     jump testpositive
+
 
     return
